@@ -1,0 +1,3 @@
+/home/kajetan/Documents/CppTorch/build/CMakeFiles/torchTest.dir
+/home/kajetan/Documents/CppTorch/build/CMakeFiles/edit_cache.dir
+/home/kajetan/Documents/CppTorch/build/CMakeFiles/rebuild_cache.dir
