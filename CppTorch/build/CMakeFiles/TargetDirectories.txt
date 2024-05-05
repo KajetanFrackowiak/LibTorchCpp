@@ -1,3 +1,0 @@
-/home/frackowiak/Documents/LibTorchCpp/CppTorch/build/CMakeFiles/torchTest.dir
-/home/frackowiak/Documents/LibTorchCpp/CppTorch/build/CMakeFiles/edit_cache.dir
-/home/frackowiak/Documents/LibTorchCpp/CppTorch/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtqdm.a CMakeFiles/tqdm.dir/home/frackowiak/Documents/INCLUDES/tqdm.cpp/src/main.cpp.o
+/usr/bin/ranlib libtqdm.a
